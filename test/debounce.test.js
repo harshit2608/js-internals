@@ -1,6 +1,6 @@
 const debounce = require('../src/debounce');
 
-describe('TEST_DEBOUNCE', () => {
+describe('DEBOUNCE', () => {
   let mockFn;
 
   beforeEach(() => {
